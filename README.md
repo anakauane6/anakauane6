@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas Vindas ao meu Perfil 💙
 
-<!--
-**anakauane6/anakauane6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Kauãne Rocha Silva
 
-Here are some ideas to get you started:
+- Estou estudando na Alura.
+- EStou me desenvolvendo na linguagem JavaScript.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📧
+
+  anneluizacarvalho@gmail.com
+
+
+![](https://media1.tenor.com/m/1k2KfUYN6aIAAAAC/one-piece-tony-tony-chopper.gif)
